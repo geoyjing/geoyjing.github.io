@@ -4,7 +4,7 @@ layout: page
 hidemeta: true
 ---
 
-<div style="font-size: 0.95 rem;">
+<div style="font-size: 0.92 rem;">
   <p><strong>📢 Opening Position Alert!</strong> </p>
   <p> I am seeking one self-motivated Master’s student to join my research group starting in Fall 2026.</p>
   <p>The position will focus on transportation geography, human mobility, and spatial networks. Applicants should hold a bachelor’s degree in Geography, Geographic Information Systems, Urban Planning, or a related field, with strong academic preparation and motivation for independent research. Programming skills in Python and/or R are preferred but not required.</p>
