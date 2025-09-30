@@ -68,8 +68,8 @@ params:
             Check out my <a href="cv.pdf" class="highlight-link" target="_blank" rel="noopener noreferrer"> <strong> CV</strong></a> for more information about me. Feel free to reach out if you'd like to connect or collaborate!
 
           imageUrl: "round-rectangle-2.gif"
-          imageWidth: 300
-          imageHeight: 180
+          imageWidth: 200
+          imageHeight: 120
           
           buttons:
             - name: People
