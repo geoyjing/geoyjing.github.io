@@ -7,8 +7,9 @@ hidemeta: true
 <div style="font-size: 0.95rem;">
   <p><strong>📢 Opening Position Alert!</strong> </p>
   <p> I am seeking one self-motivated <strong> Master’s student </strong> to join my research group starting in <strong> Fall 2026 </strong>.</p>
-  <p>The position will focus on <strong> transportation geography, human mobility, and spatial networks </strong>. Applicants should hold a bachelor’s degree in <strong> Geography, Geographic Information Systems, Urban Planning, or a related field </strong>, with strong academic preparation and motivation for independent research. Programming skills in Python and/or R are preferred but not required.</p>
-  <p>The position includes a graduate stipend and tuition waiver (details provided upon admission). Interested students should apply to UND’s graduate program and email me their CV at <a href="mailto:yue.jing@und.edu">yue.jing@und.edu</a>.</p>
+  <p>The position will focus on <strong> transportation geography, human mobility, and spatial networks </strong>. Applicants should hold a bachelor’s degree in <strong> Geography, Geographic Information Systems, Urban Planning, or a related field </strong>, with strong academic preparation and motivation for independent research. Programming skills in Python and/or R are preferred.</p>
+  <p>The position includes a graduate stipend and tuition waiver (details provided upon admission). If you are interested, please feel free to email me at yue.jing@und.edu
+with a detailed CV and a brief statement of research interests.</p>
 </div>
 
 <style>
