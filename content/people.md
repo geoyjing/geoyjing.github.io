@@ -8,9 +8,8 @@ hidemeta: true
   <p><strong>📢 Current Opening</strong> </p>
  <p>
     I am seeking a self-motivated Master’s student to join my research group as a Graduate Research Assistant.
-    My research focuses on GIScience, transportation geography, and spatial networks, with particular interest
-    in applying GIS and network science methods to study transportation systems and human mobility. Broadly,
-    my work investigates how people move and interact within cities, how these patterns are shaped by spatial
+   The group's research focuses on GIScience, transportation geography, and spatial networks, with particular interest
+    in applying GIS and network science methods to study transportation systems and human mobility. We study how people move and interact within cities, how these patterns are shaped by spatial
     structure and the built environment, and how they relate to socioeconomic outcomes.
   </p>
 
