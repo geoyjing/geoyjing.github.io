@@ -6,13 +6,6 @@ hidemeta: true
 
 <div style="font-size: 0.95rem;">
   <p><strong>📢 Current Opening</strong> </p>
-  <p> I am seeking one self-motivated <strong> Master’s student </strong> to join my research group starting in <strong> Fall 2026 </strong>.</p>
-  <p>My research focuses on GIScience, transportation geography, and spatial networks, with particular interest in applying GIS and network science methods to study transportation systems and human mobility. Broadly, my work investigates how people move and interact within cities, how these patterns are shaped by spatial structure and the built environment, and how they relate to socioeconomic outcomes.This role involves working as a Research Assistant (RA), supporting ongoing projects and developing independent research alighed with these themes.</p>
-  <p>Applicants should hold a bachelor’s degree in <strong> Geography, Geographic Information Systems, Urban Planning, or a related field </strong>, with strong academic background and motivation for independent research. Programming skills in Python and/or R are preferred.</p>
-  <p>This is a fully funded, two-year position that includes a full tuition waiver, a stipend, and health benefits. If you are interested, please feel free to email me at yue.jing@und.edu
-with a detailed CV and a brief statement of research interests.</p>
-
-
  <p>
     I am seeking a self-motivated Master’s student to join my research group as a Graduate Research Assistant.
     My research focuses on GIScience, transportation geography, and spatial networks, with particular interest
@@ -27,13 +20,13 @@ with a detailed CV and a brief statement of research interests.</p>
     waiver, a stipend, and health benefits.
   </p>
 
-  <h3>Minimum Qualifications</h3>
+  <p><strong>Minimum Qualifications</strong> </p>
   <ul>
     <li>Bachelor’s degree in Geography, Geographic Information Systems, Urban Planning, or a related field</li>
     <li>Strong academic background and motivation for independent research</li>
   </ul>
 
-  <h3>Preferred Qualifications</h3>
+  <p><strong>Preferred Qualifications</strong> </p>
   <ul>
     <li>Strong analytical and quantitative skills</li>
     <li>Experience with programming (e.g., Python, R, Julia)</li>
