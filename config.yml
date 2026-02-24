@@ -84,7 +84,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: cv_main.pdf
         - name: Location
           url: location/
         - name: Email
